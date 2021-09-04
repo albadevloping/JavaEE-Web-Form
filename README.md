@@ -7,7 +7,7 @@ Steps to run this project:
 3. Wait until Open Liberty is up- and running (e.g. use `docker logs -f CONTAINER_ID`)
 4. Visit http://localhost:9080/resources/sample
 
-# a little description of the proyec :scroll:
+# a little description of the proyect :scroll:
 
 ---
 
